@@ -173,5 +173,5 @@ Uso interno — Sistema RAM © 2025. Todos os direitos reservados.
 ---
 
 <div align="center">
-  Feito com foco em produtividade para a equipe <strong>Sistema RAM</strong>
+  Feito por Júlio César Rossini, com foco em produtividade para a equipe <strong>Sistema RAM</strong>
 </div>
